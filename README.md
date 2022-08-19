@@ -1,7 +1,4 @@
 # shiva-bowl
- 
-## Rosters
-
 ## Rules
 
 ### Keepers
